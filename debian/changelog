@@ -1,6 +1,6 @@
-rtw8852be-dkms (1.0.0) jammy; urgency=medium
+rtw8852be-dkms (1.0.0-deb13) trixie; urgency=medium
 
-  * Restrict applicable kernels up to 4.14+
+  * Built on Debian trixie
   * Initial package.
 
- -- Greg Whiteley <greg.whiteley@gmail.com>  Fri, 16 Sep 2022 22:42:44 +1000
+ -- Yudha H Tejaningrat <yht.dev@gmail.com>  Mon, 17 Nov 2025 17:22:44 +0700
